@@ -16,7 +16,7 @@
 
 * 📫 How to reach me **vedakeerthi2002@gmail.com**
 
-* ⚡ **Believe in your code and work in it, until it works good!**
+* ⚡ **Believe in your code and work on it, until it works good!**
 
 <center><img src="https://wallpapercave.com/wp/wp5975115.jpg" alt="Eat code sleep repeat!" height="300" width="700" align='center'></center>
 
