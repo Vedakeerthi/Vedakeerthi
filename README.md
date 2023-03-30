@@ -4,15 +4,15 @@
 
 <hr>
 
-<h3 align="center"><i>Welcome to my github page...Take a look at the repositories, hope you like it!</i></h3>
+<h3 align="center"><i>Welcome to my github page...Take a look at my projects, hope you like it!</i></h3>
 
 <br/>
 
-* 🔭 I’m currently working on **Machine learning and deep learning projects.**
+* 🔭 I’m currently working on **Deep Learning with NLP**
 
 * 🌱 I’m currently learning **Artificial Intelligence, Machine learning, Deep learning and Frameworks.**
 
-* 💬 Ask me about **Matplotlib, Pandas, Numpy, and about python.**
+* 💬 Talks about **Technology**
 
 * 📫 How to reach me **vedakeerthi2002@gmail.com**
 
